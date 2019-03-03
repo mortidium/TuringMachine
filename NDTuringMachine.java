@@ -1,23 +1,3 @@
- NDTuringMachine.java
-Typ
-Java
-Rozmiar
-5 KB (5 344 bajty)
-Wykorzystane miejsce
-5 KB (5 344 bajty)
-Lokalizacja
-machine
-Właściciel
-ja
-Zmodyfikowany
-20 lip 2018 przeze mnie
-Otwarty
-20 lip 2018 przeze mnie
-Utworzono
-20 lip 2018 w aplikacji Google Drive Web
-Dodaj opis
-Przeglądający mogą pobierać
-
 package machine;
 
 import java.util.*;
