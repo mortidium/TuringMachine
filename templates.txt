@@ -1,0 +1,14 @@
+Zeroes to ones (Deterministic):
+add START, _, _, ., FINISH
+add START, 0, 1, >, START
+add START, *, *, >, START
+
+Reverse
+
+Add binary numbers
+
+Sito (jak?)
+
+Podzielność przez 3 (?) - automat + uwaga, że każdy automat można zapisać łatwo maszyną Turinga i to z jednym przejściem po słowie tylko w prawo
+
+
